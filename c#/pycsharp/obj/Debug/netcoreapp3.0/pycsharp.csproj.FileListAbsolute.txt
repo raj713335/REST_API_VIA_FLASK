@@ -9,3 +9,16 @@
 /Users/soumilshah/Desktop/c-snippets/pycsharp/obj/Debug/netcoreapp3.0/pycsharp.AssemblyInfo.cs
 /Users/soumilshah/Desktop/c-snippets/pycsharp/obj/Debug/netcoreapp3.0/pycsharp.dll
 /Users/soumilshah/Desktop/c-snippets/pycsharp/obj/Debug/netcoreapp3.0/pycsharp.pdb
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\bin\Debug\netcoreapp3.0\pycsharp.exe
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\bin\Debug\netcoreapp3.0\pycsharp.deps.json
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\bin\Debug\netcoreapp3.0\pycsharp.runtimeconfig.json
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\bin\Debug\netcoreapp3.0\pycsharp.runtimeconfig.dev.json
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\bin\Debug\netcoreapp3.0\pycsharp.dll
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\bin\Debug\netcoreapp3.0\pycsharp.pdb
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\obj\Debug\netcoreapp3.0\pycsharp.csprojAssemblyReference.cache
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\obj\Debug\netcoreapp3.0\pycsharp.AssemblyInfoInputs.cache
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\obj\Debug\netcoreapp3.0\pycsharp.AssemblyInfo.cs
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\obj\Debug\netcoreapp3.0\pycsharp.csproj.CoreCompileInputs.cache
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\obj\Debug\netcoreapp3.0\pycsharp.dll
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\obj\Debug\netcoreapp3.0\pycsharp.pdb
+C:\Users\Zeus\PycharmProjects\REST API VIA FLASK\c#\pycsharp\obj\Debug\netcoreapp3.0\pycsharp.genruntimeconfig.cache
