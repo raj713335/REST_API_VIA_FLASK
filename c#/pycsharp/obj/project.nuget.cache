@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AxoZ26M1rkuMvq+44iicveVc9Rmp9PfIS5PzrNgvs9TyK0dqlMAQnf3zybjGOJICD83fAshzYtn4gRkDwOlBzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeus\\PycharmProjects\\REST API VIA FLASK\\c#\\pycsharp\\pycsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeus\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Zeus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Zeus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Zeus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
